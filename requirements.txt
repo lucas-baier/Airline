@@ -23,7 +23,7 @@ pandas==0.25.2
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-protobuf==3.9.2
+protobuf==3.15.0
 ptyprocess==0.6.0
 pydot==1.4.1
 Pygments==2.4.2
